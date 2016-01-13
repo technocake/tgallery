@@ -1,0 +1,3 @@
+# Todo for tgallery:
+	* Ajax or pure imageloading that dynamically appends the site with more photos. No need for pages!
+	* Scaling of images on-the-fly :)
